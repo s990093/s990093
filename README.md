@@ -1,4 +1,9 @@
-About Me
-👋 Hello there! I'm a student at National Taipei University of Technology (NTUT), also known as Taipei Tech. My name is LAI HUNG WEI and I'm passionate about technology, learning, and collaborating with others.
+## 👋 Hello, I'm Lai Hung Wei!
 
-[my-blog](https://lai.iside.space/) 
+🎓 **Student at National Taipei University of Technology (NTUT)**  
+💡 Passionate about **technology, learning**, and **collaborating** with others.  
+📖 Always excited to explore new ideas and expand my knowledge.
+
+🔗 [Check out my blog](https://lai.iside.space/)
+
+---
