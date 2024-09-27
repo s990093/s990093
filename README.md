@@ -7,6 +7,7 @@
 🔗 [Check out my blog](https://lai.iside.space/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s990093&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s990093&layout=compact&theme=vue-dark)
 
 ---
