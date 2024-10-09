@@ -8,18 +8,22 @@
 
 ---
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=s990093&theme=dark&show_icons=true" alt="Anurag's GitHub stats" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s990093&layout=compact&theme=vue-dark" alt="Top Langs" />
-</div>
-
+  <a href="https://github.com/s990093"><img alt="lai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s990093&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/s990093"><img alt="lai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s990093&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+  
 ---
 
 [![s990093's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s990093&theme=dracula)](https://github.com/s/github-readme-activity-graph)
 ---
 
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=s990093&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+   <br/>
+   <p align="center">
+    <a href="https://github.com/Chaganti-Reddy">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chaganti Reddy's streak" src="https://streak-stats.demolab.com?user=s990093&theme=black-ice&hide_border=true"/>
+    </a>
+</p>
 
----
+[![Lai's trophy](https://github-profile-trophy.vercel.app/?username=s990093&theme=matrix&column=8&margin-w=15&margin-h=15)](https://github.com/Chaganti-Reddy/Chaganti-Reddy)
+
+<br/>
+<br/>
