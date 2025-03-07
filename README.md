@@ -4,7 +4,7 @@
 💡 Passionate about **technology, learning**, and **collaborating** with others.  
 📖 Always excited to explore new ideas and expand my knowledge.
 
-🔗 [Check out my blog](https://lai.iside.space/)
+🔗 [Check out my blog](https://s990093.github.io/self-blog/)
 
 ---
 
