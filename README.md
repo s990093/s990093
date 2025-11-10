@@ -48,13 +48,25 @@ I am exploring the **Mamba model** for **efficient sequence modeling** and **ano
 
 ## 🏆 Achievements
 <p align="center">
+  
   [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=s990093&theme=matrix&column=8&margin-w=15&margin-h=15)](https://github.com/s990093)
+  
 </p>
 
 ---
 
-✨ **Skills & Interests**:  
-`Mamba | Transformers | Anomaly Detection | Python | Embedded AI | Network Security | Deep Learning | IoT`  
+✨ **Skills & Interests**
+
+<p align="center">
+  <img alt="Mamba" src="https://img.shields.io/badge/Mamba-FF6F61?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-6F42C1?style=for-the-badge&logo=HuggingFace&logoColor=white"/>
+  <img alt="Anomaly Detection" src="https://img.shields.io/badge/Anomaly_Detection-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Embedded AI" src="https://img.shields.io/badge/Embedded_AI-F7DF1E?style=for-the-badge&logo=Arduino&logoColor=black"/>
+  <img alt="Network Security" src="https://img.shields.io/badge/Network_Security-008080?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img alt="IoT" src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
 
 ---
 
