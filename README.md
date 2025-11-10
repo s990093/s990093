@@ -22,6 +22,9 @@ I am exploring the **Mamba model** for **efficient sequence modeling** and **ano
 ## 🔗 Connect & Explore
 - 🌐 [Blog](https://s990093.github.io/self-blog/)  
 - 🐙 [GitHub Profile](https://github.com/s990093)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/%E6%B3%93%E7%91%8B-%E8%B3%B4-4a19212b6/)  
+- 📸 [Instagram](https://www.instagram.com/lai0195/)
+- ✉️ [Email](mailto:lai09150915@gmail.com)
 
 ---
 
