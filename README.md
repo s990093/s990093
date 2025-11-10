@@ -11,10 +11,7 @@
   <a href="https://github.com/s990093"><img alt="lai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=s990093&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/s990093"><img alt="lai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s990093&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
   
----
 
-[![s990093's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s990093&theme=dracula)](https://github.com/s/github-readme-activity-graph)
----
 
    <br/>
    <p align="center">
