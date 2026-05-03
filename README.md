@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- Header Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F78E47&center=true&vCenter=true&width=600&height=60&lines=Hi,+my+name+is+Lai+Hung+Wei+👋;Welcome+to+my+profile!;Master's+Student+@+NYCU+🎓" alt="Typing SVG" />
-  </a>
 
   ### 🎓 Master's Student at NYCU (National Yang Ming Chiao Tung University)
 
