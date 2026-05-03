@@ -39,11 +39,18 @@
 - 🔭 I’m currently exploring the **Mamba model** for **efficient sequence modeling** and **anomaly detection**.
 - 🌱 My recent work focuses on **network security**, specifically **DDoS attack detection**.
 - 👯 I’m looking to collaborate on **AI/ML projects** and **Embedded Systems**.
-- 📄 **Research**: Co-authored "An Efficient DDoS-Attack Detection System based on Multi-Entropy Clustering and the Mamba Model" (IEEE GCCE 2025).
+- 📄 **Research**: Breaking the Memory Wall: Compute-Bound TuckerMoE for Hybrid State Space Models—Mamba-3 + Sparse GQA Transformer with Cross-Expert TuckerMoE.
+
+<div align="center">
+<img width="3200" height="1870" alt="method_flowchart" src="https://github.com/user-attachments/assets/69ac6954-1a09-4eba-8c43-5df6353ea76e" />
+</div>
+
+- 📄 **Research**: authored "An Efficient DDoS-Attack Detection System based on Multi-Entropy Clustering and the Mamba Model" (IEEE GCCE 2025).
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/27f6f2bc-5848-49ee-bc3d-847dcfb68ae9" alt="Research" width="80%" />
 </div>
+
 
 ---
 
