@@ -1,18 +1,18 @@
 <div align="center">
-  
-  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E47&width=435&lines=Hi,+my+name+is+Lai+Hung+Wei;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-### 🎓 Student at NKUST
+  <!-- Header Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F78E47&center=true&vCenter=true&width=600&height=60&lines=Hi,+my+name+is+Lai+Hung+Wei+👋;Welcome+to+my+profile!;Master's+Student+@+NYCU+🎓" alt="Typing SVG" />
+  </a>
+
+  ### 🎓 Master's Student at NYCU (National Yang Ming Chiao Tung University)
 
   <p>
     Passionate about <b>technology</b>, <b>learning</b>, and <b>collaboration</b>.<br>
-    Always excited to explore <b>new ideas</b> and <b>expand knowledge</b>.
+    Always excited to explore <b>new ideas</b> and <b>expand my knowledge</b>.
   </p>
 
----
-
-### 🔗 Connect & Explore
-
+  <!-- Social Links -->
   <p>
     <a href="https://s990093.github.io/self-blog/">
       <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Hugo&logoColor=white" alt="Blog" />
@@ -32,6 +32,8 @@
   </p>
 </div>
 
+<br>
+
 ---
 
 ## 👨‍💻 About Me
@@ -39,18 +41,24 @@
 - 🔭 I’m currently exploring the **Mamba model** for **efficient sequence modeling** and **anomaly detection**.
 - 🌱 My recent work focuses on **network security**, specifically **DDoS attack detection**.
 - 👯 I’m looking to collaborate on **AI/ML projects** and **Embedded Systems**.
-- 📄 **Research**: Breaking the Memory Wall: Compute-Bound TuckerMoE for Hybrid State Space Models—Mamba-3 + Sparse GQA Transformer with Cross-Expert TuckerMoE.
+
+<br>
+
+### 📄 Selected Research
+
+> **Breaking the Memory Wall:** Compute-Bound TuckerMoE for Hybrid State Space Models—Mamba-3 + Sparse GQA Transformer with Cross-Expert TuckerMoE.
 
 <div align="center">
-<img  alt="method_flowchart" src="https://github.com/user-attachments/assets/69ac6954-1a09-4eba-8c43-5df6353ea76e" alt="Research" width="80%" />
+  <img src="https://github.com/user-attachments/assets/69ac6954-1a09-4eba-8c43-5df6353ea76e" alt="TuckerMoE Research Flowchart" width="85%" style="border-radius: 10px; margin-bottom: 20px;" />
 </div>
 
-- 📄 **Research**: authored "An Efficient DDoS-Attack Detection System based on Multi-Entropy Clustering and the Mamba Model" (IEEE GCCE 2025).
+> **IEEE GCCE 2025:** Authored *"An Efficient DDoS-Attack Detection System based on Multi-Entropy Clustering and the Mamba Model"*.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/27f6f2bc-5848-49ee-bc3d-847dcfb68ae9" alt="Research" width="80%" />
+  <img src="https://github.com/user-attachments/assets/27f6f2bc-5848-49ee-bc3d-847dcfb68ae9" alt="DDoS Attack Detection Research" width="85%" style="border-radius: 10px;" />
 </div>
 
+<br>
 
 ---
 
@@ -58,15 +66,15 @@
 
 <div align="center">
 
-### 🧠 AI & Machine Learning
-
+  **🧠 AI & Machine Learning**<br>
   <img src="https://img.shields.io/badge/Mamba-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Mamba" />
   <img src="https://img.shields.io/badge/Transformers-6F42C1?style=for-the-badge&logo=HuggingFace&logoColor=white" alt="Transformers" />
   <img src="https://img.shields.io/badge/Deep_Learning-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/Anomaly_Detection-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="Anomaly Detection" />
 
-### 💻 Languages & Development
+  <br><br>
 
+  **💻 Languages & Development**<br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Embedded_AI-F7DF1E?style=for-the-badge&logo=Arduino&logoColor=black" alt="Embedded AI" />
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=ibm&logoColor=white" alt="IoT" />
@@ -74,23 +82,24 @@
 
 </div>
 
+<br>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
+
+  <table>
     <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=s990093&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=s990093&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
       </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s990093&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s990093&langs_count=6&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
       </td>
     </tr>
   </table>
-
-  <br>
 
   <img src="https://streak-stats.demolab.com?user=s990093&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   
