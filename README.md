@@ -42,7 +42,7 @@
 - 📄 **Research**: Breaking the Memory Wall: Compute-Bound TuckerMoE for Hybrid State Space Models—Mamba-3 + Sparse GQA Transformer with Cross-Expert TuckerMoE.
 
 <div align="center">
-<img width="3200" height="1870" alt="method_flowchart" src="https://github.com/user-attachments/assets/69ac6954-1a09-4eba-8c43-5df6353ea76e" />
+<img  alt="method_flowchart" src="https://github.com/user-attachments/assets/69ac6954-1a09-4eba-8c43-5df6353ea76e" alt="Research" width="80%" />
 </div>
 
 - 📄 **Research**: authored "An Efficient DDoS-Attack Detection System based on Multi-Entropy Clustering and the Mamba Model" (IEEE GCCE 2025).
